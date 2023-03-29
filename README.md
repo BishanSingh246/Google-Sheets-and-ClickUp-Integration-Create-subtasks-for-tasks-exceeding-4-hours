@@ -12,11 +12,11 @@ To use this repository, follow these steps:
 1. Create a folder in Google Drive and then create a Google Sheet inside that folder.
 2. Open the sheet and add two sheets. Change the name of the first sheet to ```tasks``` and change the name of the second sheet to your ```ClickUp username```.
     <p align="center">
-    <img src="" alt="Login">
+    <img src="https://github.com/BishanSingh246/Google-Sheets-and-ClickUp-Integration-Create-subtasks-for-tasks-exceeding-4-hours/blob/main/Img/Screenshot%202023-03-29%20075714.jpg?raw=true" alt="Login">
     </p>
 3. In the second sheet, add your ClickUp API key. 
     <p align="center">
-    <img src="" alt="Login">
+    <img src="https://github.com/BishanSingh246/Google-Sheets-and-ClickUp-Integration-Create-subtasks-for-tasks-exceeding-4-hours/blob/main/Img/Screenshot%202023-03-29%20075921.jpg?raw=true" alt="Login">
   </p>
     
 4. To create an API key, follow these steps:
