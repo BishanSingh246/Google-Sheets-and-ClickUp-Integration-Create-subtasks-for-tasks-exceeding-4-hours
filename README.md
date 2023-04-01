@@ -6,7 +6,7 @@
 ## Description
 This repository will help you to identify tasks that are greater than 4 hours in duration in a Google Sheet. You can then create subtasks based on these tasks.
 
-## Instruction
+## [Instruction](https://shorthillstech-my.sharepoint.com/:v:/p/kapil_jain/EXSUPg6_BkRJqDtMJ9onR_QBX2tenCZoGWSXc8RVdBO7hA?e=6LywQg)
 To use this repository, follow these steps:
 
 1. Create a folder in Google Drive and then create a Google Sheet inside that folder.
